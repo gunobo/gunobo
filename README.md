@@ -12,8 +12,16 @@
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gunobo&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunobo&layout=compact&theme=radical&hide_border=true" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gunobo&show_icons=true&theme=radical&hide_border=true" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunobo&layout=compact&theme=radical&hide_border=true" height="200" />
+    </td>
+  </tr>
+</table>
 
 
 ### 🏆 Baekjoon Tier
