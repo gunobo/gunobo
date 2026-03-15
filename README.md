@@ -12,12 +12,12 @@
 
 ### 📈 GitHub Stats
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=gunobo&show_icons=true&theme=radical&hide_border=true" height="200" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunobo&layout=compact&theme=radical&hide_border=true" height="200" />
     </td>
   </tr>
