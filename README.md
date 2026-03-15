@@ -6,18 +6,18 @@
 
 ---
 
-### 🏆 Baekjoon Tier
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=starte0716)](https://solved.ac/starte0716)
+
 
 <br>
 
 ### 📈 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=gunobo&show_icons=true&theme=radical&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunobo&layout=compact&theme=radical&hide_border=true" />
 
-<br>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunobo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+### 🏆 Baekjoon Tier
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=starte0716)](https://solved.ac/starte0716)
 
 </div>
