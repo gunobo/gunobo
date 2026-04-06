@@ -2,7 +2,7 @@
 
 ## Hi there 👋
   
-<p>🌱 I’m currently learning dev</p>
+<p>🌱 I'm currently learning dev</p>
 
 ### 🛠 Tech Stack
 
@@ -14,17 +14,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=gunobo&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunobo&theme=radical" height="165" />
-</p>
+<img src="https://streak-stats.demolab.com?user=gunobo&theme=radical&hide_border=true" height="165" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunobo&theme=radical" height="165" />
 
 <br>
 
 ### 🏆 Baekjoon Tier
   
-<a href="https://solved.ac/starte0716">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starte0716" />
-</a>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=starte0716)](https://solved.ac/starte0716)
 
 </div>
