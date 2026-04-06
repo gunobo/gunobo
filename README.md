@@ -16,7 +16,6 @@
 
 <img src="https://streak-stats.demolab.com?user=gunobo&theme=radical&hide_border=true" height="165" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunobo&theme=radical" height="165" />
 <br/>
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gunobo/my-project">
 
 <br>
 
