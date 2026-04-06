@@ -15,8 +15,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunobo&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunobo&layout=compact&theme=radical&hide_border=true" height="165" />
+    <img src="https://streak-stats.demolab.com?user=gunobo&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunobo&theme=radical" height="165" />
 </p>
 
 <br>
