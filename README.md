@@ -1,8 +1,6 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=150&section=header&text=Welcome%20to%20Gunobo's%20Dev%20Log&fontSize=40&animation=fadeIn" />
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF438E&center=true&vCenter=true&width=500&lines=🌱+Learning+Various+Dev+Languages;💻+Love+JavaScript+and+React;🚀+Growing+Every+Day" alt="Typing SVG" />
 </div>
 
