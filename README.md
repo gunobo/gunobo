@@ -25,10 +25,6 @@
 
 <br>
 
-### 🏆 Baekjoon Tier
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=starte0716)](https://solved.ac/starte0716)
-
 ### Contact Info
 
 <a href="https://discord.gg/eJuWAfVvPZ"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
